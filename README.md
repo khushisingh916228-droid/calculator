@@ -42,7 +42,7 @@ calculator/
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/khushisingh916228-droid/calculator.git
+   https://github.com/khushisingh916228-droid/calculator.git
 ```
 2. Open `index.html` in your browser
 3. Click the buttons to perform calculations
